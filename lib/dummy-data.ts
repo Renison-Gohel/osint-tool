@@ -7,7 +7,7 @@ export const companies: Company[] = [
     employees: [
       {
         id: "1",
-        photo: "/placeholder.svg?height=100&width=100",
+        photo: "https://avatar.iran.liara.run/public/4",
         name: "John Doe",
         email: "john@techcorp.com",
         address: "123 Tech St, Silicon Valley, CA",
@@ -21,7 +21,7 @@ export const companies: Company[] = [
       },
       {
         id: "2",
-        photo: "https://i.ibb.co/4T0xgvs/image.png",
+        photo: "https://avatar.iran.liara.run/public/41",
         name: "Prem Verma",
         email: "premkumar@gmail.com",
         address: "Outer Ring Rd, near JAIPUR GOLDEN HOSPITAL, Institutional Area, Rohini, Delhi, 110085",
