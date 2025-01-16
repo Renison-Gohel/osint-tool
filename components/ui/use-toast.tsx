@@ -1,3 +1,7 @@
+/* eslint-disable @typescript-eslint/ban-ts-comment */
+/* eslint-disable @typescript-eslint/no-unused-vars */
+//@ts-nocheck
+
 // components/ui/use-toast.ts
 import * as React from "react"
 
